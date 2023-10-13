@@ -9,9 +9,9 @@
   Guten Tag,  I'm a former teacher from Germany turned coding enthusiast. 
   <br>
   <br>
-  🔬 Currently, I'm delving into the fascinating world of coding, learning from the best to master the art of Software Development.
+  🔬 Currently, I'm delving into the fascinating world of coding, learning from the best to master the art of Software Development
   <br>
-  📚 My current obsession? Java. I'm exploring the intricacies of this language with passion.
+  📚 My current obsession? Java. I'm exploring the intricacies of this language with passion
   <br>
   💻 I love writing code and learn anythings about it
   <br>
