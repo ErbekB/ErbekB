@@ -1,14 +1,16 @@
 <h1>
-<div style="text-align: center;">
+<div>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+the+Kluft!!;With+Bahadir+Erbek;Be+Ready!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+the+Kluft!!;With+Bahadir+Erbek;Be+Ready!&size=30">
   </a>
 </div>
 </h1>
 
 <br>
-<p align="center">
-  Guten Tag,  I'm a former teacher from Germany turned coding enthusiast. 
+<p>
+  Guten Tag,
+  <br>
+  I'm a former teacher from Germany turned coding enthusiast.
   <br>
   <br>
   🔬 Currently, I'm delving into the fascinating world of coding, learning from the best to master the art of Software Development
@@ -21,7 +23,6 @@
   <br>
   📫 How to reach me: <a href="mailto: erbekb@gmail.com">erbekb@gmail.com</a>
 </p>
-
 
 
 
