@@ -1,7 +1,9 @@
-<h1 align="center">
+<h1>
+<div style="text-align: center;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome to the Kluft; with Bahadir Erbek;Be+Ready!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+the+Kluft;With+Bahadir+Erbek...;Be+Ready!&center=true&size=30">
   </a>
+</div>
 </h1>
 
 <br>
@@ -19,7 +21,6 @@
   <br>
   📫 How to reach me: <a href="mailto: erbekb@gmail.com">erbekb@gmail.com</a>
 </p>
-
 
 
 
